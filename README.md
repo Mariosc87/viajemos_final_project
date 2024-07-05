@@ -16,21 +16,19 @@ El proyecto se encuentra aún en su fase de desarrollo, aún tengo muchas ideas 
 
 ## Index / Índice
 
-*  Title and cover image / Título e imagen de portada
+*   Title and cover image / Título e imagen de portada
 
-*  Index / Índice
+*   Index / Índice
 
-*  Features / Caracteristicas.
+*   Features / Caracteristicas.
 
-*  Data Architecture Scheme / Esquema de la Arquitectura de datos.
+*   Data Architecture Scheme / Esquema de la Arquitectura de datos.
 
 *   CSV.
 
 *   Installation / Instalación.
 
 *  Usage / Uso.
-
-*  Project access / Acceso al proyecto.
 
 *  Technologies Used / Tecnologías usadas.
 
@@ -100,10 +98,6 @@ El proyecto se encuentra aún en su fase de desarrollo, aún tengo muchas ideas 
 * Haga clic en "Generar descripciones de ciudades" para recuperar información sobre las ciudades seleccionadas.
 * Explora puntos de referencia y actividades recomendadas por la aplicación.
 * Utilice los enlaces proporcionados para visitar recursos externos para obtener actualizaciones meteorológicas, reservas de vuelos y conversión de moneda.
-
-### Project access / Acceso al proyecto.
-
-* enlace aplicacion.
 
 ### Technologies Used / Tecnologías usadas.
 

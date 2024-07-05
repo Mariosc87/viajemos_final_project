@@ -64,19 +64,26 @@ El proyecto se encuentra aún en su fase de desarrollo, aún tengo muchas ideas 
 ### Installation / Instalación.
 
 * Clone the repository:
+  
  ![Image](img/a1.png)
 
+
 * Install dependencies:
+  
   ![Image](img/a2.png)
+
 
 * Set up environment variables:
 
     - Create a .env file in the root directory.
     - Add your API keys:
+    - 
  
       ![Image](img/a3.png)
 
+
 * Run the application:
+  
   ![Image](img/a4.png)
 
 

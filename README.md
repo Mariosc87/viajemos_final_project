@@ -16,15 +16,13 @@ El proyecto se encuentra aún en su fase de desarrollo, aún tengo muchas ideas 
 
 ## Index / Índice
 
-* Title and cover image / Título e imagen de portada
+*  Title and cover image / Título e imagen de portada
 
-* Index / Índice
+*  Index / Índice
 
-* Features / Caracteristicas.
+*  Features / Caracteristicas.
 
-* Mockup
-
-* Esquema de la Arquitectura de datos.
+*  Data Architecture Scheme / Esquema de la Arquitectura de datos.
 
 *   CSV.
 
@@ -54,20 +52,10 @@ El proyecto se encuentra aún en su fase de desarrollo, aún tengo muchas ideas 
 * Recomendaciones de lugares emblemáticos: proporciona recomendaciones de lugares y actividades populares según las aportaciones de los usuarios.
 * Enlaces externos: ofrece acceso rápido a recursos externos, como información meteorológica y reservas de vuelos.
 
-### Mockup.
 
-![Image](img/Captura%20de%20pantalla%202024-05-19%20220144.png)
+### Data Architecture Scheme / Esquema de la Arquitectura de datos.
 
-
-### Esquema de la Arquitectura de datos.
-
-![Image](img/ARQUITECTURA%20DE%20DATOS.jpg)
-
-Para poder realizar este proyecto tenemos una serie de archivos csv con todos los datos que necesitamos, usando Phyton, y mas concretamente con Pandas, logramos interpretar los datos que estan en estos archivos. Obtenemos y visualizamos las tablas y sus datos para analizar los datos y cree una base de datos con DuckDB. 
-
-Finalmente no uso la base de datos que cree.
-
-Decido hacer el dashboard con Tableau. Enlazo los csv con el programa y creo el modelo de datos en Tableau. Investigo los datos que tengo y realizo el dashboard con los datos que creo mejor.
+![Image](img/ARQUITECTURA_DE_DATOS.jpg)
 
 ### CSV.
 

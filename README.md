@@ -44,6 +44,8 @@ El proyecto se encuentra aún en su fase de desarrollo, aún tengo muchas ideas 
 * Landmark Recommendations: Provides recommendations for popular landmarks and activities based on user input.
 * External Links: Offers quick access to external resources such as weather information and flight bookings.
 
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 * Selección de país y ciudad: los usuarios pueden seleccionar países y ciudades de un conjunto de datos para explorar.
 * Mapas interactivos: utiliza Folium, Streamlit y API de GoogleMaps para mostrar mapas dinámicos con marcadores para ciudades seleccionadas.
 * Descripciones de ciudades: genera descripciones de ciudades seleccionadas utilizando el modelo de lenguaje de OpenAI.
@@ -92,6 +94,8 @@ El proyecto se encuentra aún en su fase de desarrollo, aún tengo muchas ideas 
 * Click on "Generate City Descriptions" to retrieve information about selected cities.
 * Explore landmarks and activities recommended by the application.
 * Use the links provided to visit external resources for weather updates, flight bookings, and currency conversion.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * Descubre que país es adecuado para ti en este momento.
 * Selecciona uno o más países y ciudades de los menús desplegables.

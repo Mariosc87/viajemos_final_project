@@ -77,7 +77,7 @@ El proyecto se encuentra aún en su fase de desarrollo, aún tengo muchas ideas 
 
     - Create a .env file in the root directory.
     - Add your API keys:
-    - 
+  
  
       ![Image](img/a3.png)
 
